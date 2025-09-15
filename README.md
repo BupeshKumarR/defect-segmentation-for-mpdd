@@ -65,7 +65,7 @@ Qualitative results are available in `results_seg/qualitative/` showing:
 
 ```bash
 # Clone the repository
-git clone https://github.com/BupeshKumarR/defect-segmentation-for-mpdd
+git clone https://github.com/BupeshKumarR/defect-segmentation-for-mpdd.git
 
 # Create and activate virtual environment
 bash activate_env.sh
