@@ -1,0 +1,8 @@
+{
+  "part": "metal_plate",
+  "img_size": 512,
+  "train": 84,
+  "val": 20,
+  "test": 47,
+  "train_ratio_bad": 0.7
+}

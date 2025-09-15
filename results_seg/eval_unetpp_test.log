@@ -1,0 +1,12 @@
+{
+  "arch": "unet++",
+  "encoder": "timm-efficientnet-b0",
+  "checkpoint": "results_seg/metal_plate_unet++_best.pth",
+  "best_val_threshold": 0.7500000000000002,
+  "best_val_f1_at_thr": 0.9701000599837327,
+  "test_mean_iou": 0.9551314352458211,
+  "test_mean_f1": 0.9739070125839668,
+  "open_ks": 3,
+  "close_ks": 3,
+  "num_test_samples": 47
+}

@@ -1,0 +1,11 @@
+data/
+results/
+__pycache__/
+*.pyc
+*.pth
+*.png
+*.jpg
+*.jpeg
+.DS_Store
+venv/
+env/
