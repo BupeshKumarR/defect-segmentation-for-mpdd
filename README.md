@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 ### Dataset Setup
 
-1. Download the MPDD dataset from the provided link
+1. Download the MPDD dataset from the provided link - [here](https://drive.google.com/file/d/1b3dcRqTXR7LZkOEkVQ9qO_EcKzzC2EEI/view?pli=1)
 2. Place the unzipped folder in the project root as `anomaly_dataset/`
 3. Ensure the structure follows: `anomaly_dataset/metal_plate/train/`, `anomaly_dataset/metal_plate/test/`, `anomaly_dataset/metal_plate/ground_truth/`
 
@@ -151,6 +151,3 @@ assessment/
     └── qualitative/           # Visual results
 ```
 
-## 8. Contact
-
-For questions or issues, please refer to the project repository or contact the development team.
